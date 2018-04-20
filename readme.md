@@ -11,6 +11,6 @@ It is about plotting a straight line.
 Library used: *matplotlib*
 
 ## KNN Data Clustering
-Classifying data using K-Nearest Neighbour algorithm, data set used: Wisconsin breast cancer dataset
-Library used: *numpy*
+Classifying data using K-Nearest Neighbour algorithm, data set used: Wisconsin breast cancer dataset.
+Library used: *numpy*,
               *pandas*
